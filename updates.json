@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "products": {
+    "pro-eq": {
+      "name": "Blak Marigold Pro EQ",
+      "version": "0.15.0",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.15.0/ProEQ-Setup-0.15.0-Windows-x64.exe",
+      "sha256": "2f223ef7b196d5d0e98f3da3bb285298ca481c1fe6f451855a2a796b3ed6d072",
+      "notes": [
+        "Mouse wheel adjusts Q over a band node or the Q knob",
+        "Low Cut and High Cut slope menus: 6, 12, 18 or 24 dB/oct",
+        "Low Cut now reaches 20 kHz",
+        "Optional +/-24 dB gain range",
+        "Fixed preset menu picks that were sometimes ignored",
+        "The panel dims when bypassed, EQ IN is off, or there is no signal"
+      ],
+      "min_os": "windows-10",
+      "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-eq"
+    }
+  }
+}
