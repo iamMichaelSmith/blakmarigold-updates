@@ -3,16 +3,15 @@
   "products": {
     "pro-eq": {
       "name": "Blak Marigold Pro EQ",
-      "version": "0.15.0",
-      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.15.0/ProEQ-Setup-0.15.0-Windows-x64.exe",
-      "sha256": "2f223ef7b196d5d0e98f3da3bb285298ca481c1fe6f451855a2a796b3ed6d072",
+      "version": "0.16.0",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.0/ProEQ-Setup-0.16.0-Windows-x64.exe",
+      "sha256": "60da724037b4a08ea3087d93d76c35a6c8f7be6aff2cc335c6c0034b298b6a8d",
       "notes": [
-        "Mouse wheel adjusts Q over a band node or the Q knob",
-        "Low Cut and High Cut slope menus: 6, 12, 18 or 24 dB/oct",
-        "Low Cut now reaches 20 kHz",
-        "Optional +/-24 dB gain range",
-        "Fixed preset menu picks that were sometimes ignored",
-        "The panel dims when bypassed, EQ IN is off, or there is no signal"
+        "New CHECK FOR UPDATES button; Pro EQ also checks quietly once a day",
+        "Download & install verifies the checksum and the Blak Marigold Pro LLC signature",
+        "Low Cut and High Cut now start switched on, parked at 25 Hz and 20 kHz; saved songs keep their settings",
+        "The installer waits for your DAW to close instead of stopping",
+        "Cleaner installer welcome page with a gold heading"
       ],
       "min_os": "windows-10",
       "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-eq"
