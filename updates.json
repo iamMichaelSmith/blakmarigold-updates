@@ -3,15 +3,14 @@
   "products": {
     "pro-eq": {
       "name": "Blak Marigold Pro EQ",
-      "version": "0.16.1",
-      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.1/ProEQ-Setup-0.16.1-Windows-x64.exe",
-      "sha256": "265f2fc7d53845f8d59013f690a11543b9d789631d836f82078e51739a346764",
+      "version": "0.16.2",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.2/ProEQ-Setup-0.16.2-Windows-x64.exe",
+      "sha256": "4e06a0e4cfe316a89e73a36301f1e70fcfee0e0a8012de0148f2ae50e0780282",
       "notes": [
-        "Low Cut and High Cut slopes now include 36 and 48 dB/oct; saved songs keep their slope",
-        "Smaller Check for Updates button that sits inside the toolbar",
-        "Gain knobs are always +/-24 dB and the GAIN 24 dB button is gone; saved gains are unchanged",
-        "The EQ curve and controls stay fully lit when no audio is playing",
-        "Installer welcome and finish headings wrap and fit at any display scaling"
+        "One click on Download & install opens exactly one installer, with no second setup window and nothing reopening after setup closes",
+        "The downloaded installer is cleaned up once setup closes",
+        "Closing a plug-in window during an update check or download no longer stalls the DAW",
+        "The update button and panel only take clicks on themselves"
       ],
       "min_os": "windows-10",
       "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-eq"
