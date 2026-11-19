@@ -3,14 +3,13 @@
   "products": {
     "pro-eq": {
       "name": "Blak Marigold Pro EQ",
-      "version": "0.16.2",
-      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.2/ProEQ-Setup-0.16.2-Windows-x64.exe",
-      "sha256": "4e06a0e4cfe316a89e73a36301f1e70fcfee0e0a8012de0148f2ae50e0780282",
+      "version": "0.16.3",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.3/ProEQ-Setup-0.16.3-Windows-x64.exe",
+      "sha256": "a354b72eacbc961d487319a8d91cd9895f2b6b0c011b12f054236f02896017b4",
       "notes": [
-        "One click on Download & install opens exactly one installer, with no second setup window and nothing reopening after setup closes",
-        "The downloaded installer is cleaned up once setup closes",
-        "Closing a plug-in window during an update check or download no longer stalls the DAW",
-        "The update button and panel only take clicks on themselves"
+        "Update now asks you to save and close your DAW first",
+        "Setup checks for a running DAW (Try again/Cancel) before it installs",
+        "Setup opens only once per click"
       ],
       "min_os": "windows-10",
       "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-eq"
