@@ -17,14 +17,15 @@
     },
     "pro-comp": {
       "name": "Blak Marigold Pro Comp",
-      "version": "0.2.4",
-      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-comp-0.2.4/ProComp-Setup-0.2.4-Windows-x64.exe",
-      "sha256": "4c152fb6de996185aaceb45f1c5d8f1d336d0e98a738770968eed92593484e2e",
+      "version": "0.2.5",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-comp-0.2.5/ProComp-Setup-0.2.5-Windows-x64.exe",
+      "sha256": "b34622d17adbba37211362399550fb630bfb8f3b7920746c2c5b861368c417e6",
       "notes": [
-        "Fixed: the INPUT, THRESHOLD, CLASSIC and BYPASS controls turn again",
-        "One click on Download & install opens exactly one installer, with no second setup window and nothing reopening after setup closes",
-        "Closing Setup before anything is installed exits quietly, with no Windows reinstall prompt",
-        "Sturdier plug-in: safer audio, saved-state and window handling, and closing the plug-in window during an update check no longer stalls the DAW"
+        "Update now asks you to save and close your DAW first",
+        "Setup checks for a running DAW (Try again/Cancel)",
+        "Setup opens only once per click",
+        "The TUBE knob is now clearly audible, with real oversampling",
+        "A partial download is cleaned up on close"
       ],
       "min_os": "windows-10",
       "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-comp"
