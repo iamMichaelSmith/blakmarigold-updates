@@ -16,15 +16,15 @@
     },
     "pro-comp": {
       "name": "Blak Marigold Pro Comp",
-      "version": "0.2.5",
-      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-comp-0.2.5/ProComp-Setup-0.2.5-Windows-x64.exe",
-      "sha256": "b34622d17adbba37211362399550fb630bfb8f3b7920746c2c5b861368c417e6",
+      "version": "0.2.6",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-comp-0.2.6/ProComp-Setup-0.2.6-Windows-x64.exe",
+      "sha256": "77b4bdb284b733c744abc5fa7545108929146f99e612038fae4b25d5337cecba",
       "notes": [
-        "Update now asks you to save and close your DAW first",
-        "Setup checks for a running DAW (Try again/Cancel)",
-        "Setup opens only once per click",
-        "The TUBE knob is now clearly audible, with real oversampling",
-        "A partial download is cleaned up on close"
+        "Attack now goes down to 0.1 ms",
+        "New PRESETS menu with 13 factory starting points",
+        "Setup lets you choose the VST3 folder",
+        "Update now shows Close your DAW first, and only the second click downloads",
+        "Attack automation recorded in 0.2.5 plays back a little faster at the low end"
       ],
       "min_os": "windows-10",
       "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-comp"
