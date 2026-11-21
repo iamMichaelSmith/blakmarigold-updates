@@ -3,13 +3,13 @@
   "products": {
     "pro-eq": {
       "name": "Blak Marigold Pro EQ",
-      "version": "0.16.3",
-      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.3/ProEQ-Setup-0.16.3-Windows-x64.exe",
-      "sha256": "a354b72eacbc961d487319a8d91cd9895f2b6b0c011b12f054236f02896017b4",
+      "version": "0.16.4",
+      "url": "https://github.com/iamMichaelSmith/blakmarigold-updates/releases/download/pro-eq-0.16.4/ProEQ-Setup-0.16.4-Windows-x64.exe",
+      "sha256": "d9d22e8550e32171f1e1fdb657bb4102c47e16b053b5180298ac5e9daafb8ff8",
       "notes": [
-        "Update now asks you to save and close your DAW first",
-        "Setup checks for a running DAW (Try again/Cancel) before it installs",
-        "Setup opens only once per click"
+        "Fixed preset menu getting stuck after the first preset pick",
+        "Q now shapes High Shelf and Low Shelf slope and resonance",
+        "Setup lets you choose a custom VST3 folder and remembers it for updates"
       ],
       "min_os": "windows-10",
       "page": "https://www.blakmarigold.com/store/p/blak-marigold-pro-eq"
